@@ -24,7 +24,6 @@ public class Main {
 			dayTwoHomeworkTwo
 		};
 		
-		
 		Student yarkin = new Student();
 		yarkin.setId(0);
 		yarkin.set_name("Yarkın");
