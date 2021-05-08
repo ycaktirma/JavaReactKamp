@@ -1,2 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="RegistrationSystem.entities.concretes.User"/>
+    <fullyQualifiedTypeName name="RegistrationSystem.business.abstracts.UserAuthenticationService"/>
+    <fullyQualifiedTypeName name="RegistrationSystem.business.concretes.UserAuthenticationManager"/>
+    <fullyQualifiedTypeName name="org.w3c.dom.Entity"/>
+    <fullyQualifiedTypeName name="RegistrationSystem.entities.abstracts.Entity"/>
+    <fullyQualifiedTypeName name="RegistrationSystem.dataAccess.concretes.InMemoryUserDao"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="RegistrationSystem.entities.concretes.InMemoryData"/>
+    <fullyQualifiedTypeName name="RegistrationSystem.business.abstracts.MailValidatorService"/>
+    <fullyQualifiedTypeName name="RegistrationSystem.business.concretes.MailValidatorManager"/>
+    <fullyQualifiedTypeName name="RegistrationSystem.dataAccess.abstracts.UserDao"/>
+    <fullyQualifiedTypeName name="RegistrationSystem.dataAccess.concretes.HibernateUserDao"/>
+    <fullyQualifiedTypeName name="RegistrationSystem.business.abstracts.UserService"/>
+    <fullyQualifiedTypeName name="RegistrationSystem.core.business.concretes.GoogleAuthenticationAdapter"/>
+    <fullyQualifiedTypeName name="RegistrationSystem.business.concretes.UserManager"/>
+    <fullyQualifiedTypeName name="RegistrationSystem.dataAccess.concretes.GoogleUserDao"/>
+    <fullyQualifiedTypeName name="RegistrationSystem.business.concretes.GoogleAuthenticationManager"/>
+    <fullyQualifiedTypeName name="GoogleAuthenticaton.GoogleAuthManager"/>
+    <fullyQualifiedTypeName name="RegistrationSystem.core.business.abstracts.AuthService"/>
+    <fullyQualifiedTypeName name="RegistrationSystem.core.business.concretes.GoogleAuthenticationManagerAdapter"/>
+</qualifiedTypeNameHistroy>
